@@ -4,3 +4,5 @@ very hipster
 Hipster edit from github
 
 Another hipster edit from github
+
+Conflicting edit
